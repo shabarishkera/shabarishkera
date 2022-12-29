@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/shabarishkera](https://github.com/shabarishkera)
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,JAVA**
 
 - 📫 How to reach me **shabarishkera@gmail.com**
 
