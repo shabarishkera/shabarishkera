@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **shabarishkera@gmail.com**
 
-- ⚡ Fun fact **my code is a disaster**
+- ⚡ Fun fact **"it works on my computer "**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
