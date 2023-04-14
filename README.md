@@ -4,15 +4,15 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shabarishkera&label=Profile%20views&color=0e75b6&style=flat" alt="shabarishkera" /> </p>
 
-- 🌱 I’m currently learning **JS,MongoDB**
+- 🌱 I’m currently learning **React JS,SEO,MongoDB...**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shabarishkera](https://github.com/shabarishkera)
 
-- 💬 Ask me about **HTML,CSS,JAVASCRIPT,JAVA**
+- 💬 Ask me about **HTML,CSS,JAVASCRIPT,JAVA,REACT,SCSS**
 
 - 📫 How to reach me **shabarishkera@gmail.com**
 
-- ⚡ Fun fact **"it works on my computer "**
+- ⚡ Fun fact **"IF IT WORKS DONT TOUCH IT."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
