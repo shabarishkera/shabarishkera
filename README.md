@@ -1,4 +1,8 @@
+<p align="center">
 
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="300">
+  
+</p>
 <h1 align="center">Hi 👋, I'm SHABARISH</h1>
 <h3 align="center"></h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
